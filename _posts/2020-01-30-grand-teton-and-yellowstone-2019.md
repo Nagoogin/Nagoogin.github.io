@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Grand Teton and Yellowstone NP"
-date: 2020-01-25
+date: 2020-08-16
 image: /assets/images/teton_yellowstone/grand_teton_mist.jpg
-categories: backpacking
+categories: camping
 author: Kevin Nguyen
 tags:
   - Camping
 ---
 
-> Round II of the Nguyen Brothers Road Trip Extravaganza
+> Round two of the "Father and Sons Road Trip Extravaganza"
 
-In the middle of July 2019, my Dad and two younger brothers embarked on our annual road trip to visit a few national parks. The previous year we were in Utah, spending our time in Zion, Bryce Canyon, and Capitol Reef National Parks. This year we opted to head further north, with our sights set on Grand Teton and Yellowstone National Parks.
+In the middle of Summer 2019, my Dad and two younger brothers embarked on our annual road trip to visit a few national parks. The previous year we were in Utah, spending our time in Zion, Bryce Canyon, and Capitol Reef National Parks. This year we opted to head further north, with our sights set on Grand Teton and Yellowstone National Parks.
 
 On the first day of the trip we loaded all our camping gear into my mom's Subaru Forester and hit the road, destination: Twin Falls Idaho. That was going to be our intended stop for the night, however because I had become accustomed to making long drives solo, I persuaded my Dad to relay race our way to Grand Teton in one push.
 

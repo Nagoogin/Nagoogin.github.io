@@ -6,6 +6,7 @@ image: /assets/images/mineral_king/sawtooth_from_cold_springs.jpg
 categories: backpacking
 author: Kevin Nguyen
 tags:
+  - Hiking
   - Backpacking
   - Camping
 ---
