@@ -25,7 +25,15 @@ Once the sun rose, the host and hostess began letting everyone into the campgrou
 
 ![Jenny Lake Side](/assets/images/teton_yellowstone/jenny_lake_side.jpg)
 
-There was a ferry that shuttled hikers and tourists to and from the opposing shores.
+There's a ferry service that shuttles hikers and tourists to and from the opposing shores of Jenny Lake, dropping them off near the access point to Hidden Falls. It's a nice touch but we wanted to get our legs moving after being confined in the car for so long, so we began our clockwise loop around the lake on foot.
+
+The trail was mostly flat, rising up on the opposite side to a viewpoint that overlooked the lake. Looking east we could see the sweeping plains that dominated the area beyond the Tetons. After a few candid pictures to capture the moment, we dropped down and visited Hidden Falls to see what they had to offer.
+
+![Looking east above Jenny Lake](/assets/images/teton_yellowstone/jenny_lake.jpg)
+
+On the way back from the falls, my youngest brother and I decided we wanted to run the rest of the way around Jenny Lake. We had heard from some other hikers that it wasn't too far. So, we left our packs with my dad and middle brother, who were opting for the ferry ride back across the lake, and started jogging.
+
+What we had thought would be a short two mile run turned out to be closer to four miles of trail that meandered around the lake before going up river for a bit before crossing over to our side of the lake. By the time we got back to camp, my dad and middle brother were already changed and ready for a rinse in the lake to wash off the day's sweat.
 
 ## Yellowstone National Park
 
@@ -49,13 +57,13 @@ Bottom Text
 
 ![New Growth Forest](/assets/images/teton_yellowstone/new_growth.jpg#full)
 
-Bottomer Text
+Bottom Text
 
 #### Grand Canyon of the Yellowstone
 
 Top Text
 
-![Grand Cayon of the Yellowstone](/assets/images/teton_yellowstone/grand_canyon_of_the_yellowstone.jpg)
+![Grand Canyon of the Yellowstone](/assets/images/teton_yellowstone/grand_canyon_of_the_yellowstone.jpg)
 
 Bottom Text
 
